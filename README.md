@@ -15,7 +15,7 @@ Create an image gallery where the main image changes by the click on a thumbnail
 - You must only modify the file `src/scripts/main.js` and `src/styles/main.scss`
 
 ### Gif of result
-![](example/example.gif)
+![Gif example](./example/example.gif)
 
 ---
 **Read the guideline before start**
